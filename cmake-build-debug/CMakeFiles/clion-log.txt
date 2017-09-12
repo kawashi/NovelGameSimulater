@@ -1,0 +1,69 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/allen/development/cocos2d-x/NovelGameSimulator
+-- The C compiler identification is AppleClang 8.1.0.8020042
+-- The CXX compiler identification is AppleClang 8.1.0.8020042
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+It appears you are building natively for Mac OSX with 
+-- Found OpenGL: /System/Library/Frameworks/OpenGL.framework  
+-- OpenGL include dirs: /System/Library/Frameworks/OpenGL.framework
+-- GLFW3 include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/glfw3/include/mac
+-- Freetype include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/freetype2/include/mac/freetype2
+-- WebP include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/webp/include/mac
+-- Chipmunk include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/chipmunk/include
+-- Bullet include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet
+-- Recast include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/recast
+-- TinyXML2 include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/tinyxml2
+-- JPEG include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/jpeg/include/mac
+-- ZLIB include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/zlib/include
+-- MINIZIP include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/unzip;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/zlib/include
+-- PNG include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/png/include/mac
+-- TIFF include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/tiff/include/mac
+-- WEBSOCKETS include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/websockets/include/mac
+-- CURL include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/curl/include/mac
+-- Flatbuffers include dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external
+-- GLFW3 add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/glfw3/include/mac
+-- GLFW3 libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/glfw3/prebuilt/mac/libglfw3.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/glfw3/prebuilt/mac/libglfw3.a
+-- ZLIB add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/zlib/include
+-- ZLIB libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/zlib/prebuilt/mac/libz.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/zlib/prebuilt/mac/libz.a
+-- MINIZIP add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/unzip;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/zlib/include
+-- MINIZIP libs added to 'cocos2dInternal': unzip;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/zlib/prebuilt/mac/libz.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/zlib/prebuilt/mac/libz.a
+-- JPEG add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/jpeg/include/mac
+-- JPEG libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/jpeg/prebuilt/mac/libjpeg.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/jpeg/prebuilt/mac/libjpeg.a
+-- PNG add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/png/include/mac
+-- PNG libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/png/prebuilt/mac/libpng.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/png/prebuilt/mac/libpng.a
+-- TIFF add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/tiff/include/mac
+-- TIFF libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/tiff/prebuilt/mac/libtiff.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/tiff/prebuilt/mac/libtiff.a
+-- TinyXML2 add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/tinyxml2
+-- TinyXML2 libs added to 'cocos2dInternal': tinyxml2
+-- FREETYPE add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/freetype2/include/mac/freetype2
+-- FREETYPE libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/freetype2/prebuilt/mac/libfreetype.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/freetype2/prebuilt/mac/libfreetype.a
+-- WEBSOCKETS add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/websockets/include/mac
+-- WEBSOCKETS libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/websockets/prebuilt/mac/libwebsockets.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/websockets/prebuilt/mac/libwebsockets.a
+-- CURL add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/curl/include/mac
+-- CURL libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/curl/prebuilt/mac/libcurl.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/curl/prebuilt/mac/libcurl.a
+-- OPENSSL add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/openssl/include/mac
+-- OPENSSL libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/openssl/prebuilt/mac/libssl.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/openssl/prebuilt/mac/libcrypto.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/openssl/prebuilt/mac/libssl.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/openssl/prebuilt/mac/libcrypto.a
+-- FLATBUFFERS add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external
+-- XXHASH add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/xxhash
+-- XXHASH libs added to 'cocos2dInternal': xxhash
+-- WEBP add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/webp/include/mac
+-- WEBP libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/webp/prebuilt/mac/libwebp.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/webp/prebuilt/mac/libwebp.a
+-- CHIPMUNK add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/chipmunk/include
+-- CHIPMUNK libs added to 'cocos2dInternal': /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/chipmunk/prebuilt/mac/libchipmunk.a;/Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/chipmunk/prebuilt/mac/libchipmunk.a
+-- BULLET add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet
+-- BULLET libs added to 'cocos2dInternal': bullet
+-- RECAST add to include_dirs: /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/recast
+-- RECAST libs added to 'cocos2dInternal': recast
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/allen/development/cocos2d-x/NovelGameSimulator/cmake-build-debug

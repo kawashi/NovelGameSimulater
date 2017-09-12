@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../cocos/platform/mac/cocos2d-prefix.pch \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet/BulletMultiThreaded/PosixThreadSupport.cpp \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet/BulletMultiThreaded/PosixThreadSupport.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet/BulletMultiThreaded/PlatformDefinitions.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/vectormath/vmInclude.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/vectormath/sse/vectormath_aos.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/vectormath/sse/vecidx_aos.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/vectormath/sse/floatInVec.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/vectormath/sse/boolInVec.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/vectormath/sse/vec_aos.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/vectormath/sse/quat_aos.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/vectormath/sse/mat_aos.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet/BulletMultiThreaded/PpuAddressSpace.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet/BulletMultiThreaded/btThreadSupportInterface.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet/BulletMultiThreaded/SpuCollisionTaskProcess.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuGatheringCollisionTask.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionObject.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/LinearMath/btMotionState.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexShape.h \
+  /Users/allen/development/cocos2d-x/NovelGameSimulator/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h
